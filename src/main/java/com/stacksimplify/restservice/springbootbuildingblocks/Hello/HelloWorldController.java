@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.stacksimplify.restservice.springbootbuildingblocks.Entity.UserDetails;
 
-//Rest Controller class
+//Rest Controller classsss
 @RestController
 @RequestMapping("/api")
 public class HelloWorldController {
